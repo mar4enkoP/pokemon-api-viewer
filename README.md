@@ -1,6 +1,6 @@
 # Pokemon API Viewer
 
-A small frontend project that fetches Pokemon data from an API, displays it in a table and allows users to manage selected Pokémon with `localStorage`.
+A small frontend project that fetches Pokemon data from an API, displays it in a table and allows users to manage selected Pokemon with `localStorage`.
 
 This project was created as a learning project to practice JavaScript, working with API data, DOM manipulation and basic client-side storage.
 
@@ -20,10 +20,10 @@ This project was created as a learning project to practice JavaScript, working w
 
 ## Features
 
-- Fetches Pokémon data from an external API
-- Displays Pokémon information in a table
-- Shows basic Pokémon data such as name, height and weight
-- Saves selected Pokémon in `localStorage`
+- Fetches Pokemon data from an external API
+- Displays Pokemon information in a table
+- Shows basic Pokemon data such as name, height and weight
+- Saves selected Pokemon in `localStorage`
 - Allows users to delete Pokémon from the saved list
 - Uses JavaScript for dynamic rendering and user interaction
 
